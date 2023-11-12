@@ -2,5 +2,5 @@ apiVersion: operator.open-cluster-management.io/v1
 kind: MultiClusterHub
 metadata:
   name: multiclusterhub
-  namespace: acm-operator-namespace
+  namespace: open-cluster-management
 spec: {}
